@@ -173,9 +173,3 @@ venvs=[".venv"]
 paths=["llmake"]
 deps-file="pyproject.toml"
 sections=["tool.poetry.dependencies"]
-exclude-deps =[
-  "rich",
-  "typing-extensions",
-  "lxml-html-clean",
-  "newspaper4k"
-]
